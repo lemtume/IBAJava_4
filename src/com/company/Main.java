@@ -6,5 +6,6 @@ public class Main {
 	// write your code heres
         System.out.println ("ASd");
         System.out.println ("ASd");
+        System.out.println ("asd3");
     }
 }
